@@ -1,4 +1,4 @@
-# MiCommunityBypass
+# MiCommunityInstantApproval
 
 Global-device helper scripts for Xiaomi Community unlock request timing (HyperOS 1/2/3), including token collection helpers for Windows and Linux.
 
